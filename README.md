@@ -1,2 +1,4 @@
-# Code Beautifier for HTML CSS and JavaScript
-Format your HTML, CSS or JavaScript code to clean it up and beautify it. Make your HTML, CSS or JavaScript easier to read and validate it.
+Code Beautifier for HTML, CSS and JavaScript <br>
+Tool made with HTML + JavaScript + CSS <br>
+developed by Tawhidur Rahman Dear, https://www.tawhidurrahmandear.com <br>
+Live Preview available at https://www.devilhunter.net/p/code-beautifier.html
