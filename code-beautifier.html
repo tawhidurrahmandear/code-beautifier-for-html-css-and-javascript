@@ -1,0 +1,26 @@
+<link rel="stylesheet" type="text/css" href="code-beautifier.css">
+<script src="code-beautifier.js"></script>
+
+<!-- Code Beautifier for HTML, CSS and JavaScript -->
+<!-- developed by Tawhidur Rahman Dear, https://www.tawhidurrahmandear.com -->
+<!-- Live Preview available at https://www.devilhunter.net/p/code-beautifier.html -->
+
+<div style="text-align: justify;"><span style="font-family: Ubuntu;">Format your HTML, CSS or JavaScript code to clean it up and beautify it. Make your HTML, CSS or JavaScript easier to read and validate it.</span></div>
+
+<br />
+
+
+    <textarea class="code-beautifier_textarea" id="inputCode"></textarea>
+      	<br><br>
+    	<div>
+        <button class="code-beautifier_button" onclick="beautifyCode('html')">Beautify HTML</button>
+        <button class="code-beautifier_button" onclick="beautifyCode('css')">Beautify CSS</button>
+        <button class="code-beautifier_button" onclick="beautifyCode('js')">Beautify JavaScript</button>
+   		</div>
+      	<br />
+    <textarea class="code-beautifier_textarea" id="outputCode" readonly=""></textarea>
+    <div id="notification"></div>
+    <div>
+        <button class="code-beautifier_button" onclick="clearAll()">Clear</button>
+        <button class="code-beautifier_button" onclick="copyCode()">Copy Code</button>
+    </div>
