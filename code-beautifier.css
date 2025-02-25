@@ -29,6 +29,7 @@ body {
   border-radius: 5px;
   font-size: 14px;
   background-color: #ffffff;
+  box-sizing: border-box;
 }
 
 .code-beautifier_input:focus, .code-beautifier_select:focus {
@@ -46,6 +47,7 @@ body {
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.5s ease;
+  box-sizing: border-box;
 }
 
 .code-beautifier_button:hover {
